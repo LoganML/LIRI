@@ -48,4 +48,4 @@ This will show your last 20 tweets and when they were created at in your termina
 4: node liri.js do-what-it-says
 
 This will output the command placed in random.txt file
-# LIRI-Bot-master
+# LIRI
